@@ -1,5 +1,0 @@
-{
-"proxy" : "http://proxymsn.zte.com.cn:80",
-"https-proxy": "http://proxymsn.zte.com.cn:80",
-"shorthand-resolver": "https://github.com/{{owner}}/{{package}}.git"
-}
