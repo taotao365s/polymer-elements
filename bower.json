@@ -1,0 +1,12 @@
+{
+  "name": "my Polymer App",
+  "description": "App based Polymer",
+  "keywords": ["Polymer"],
+  "author": "shi.pengyan",
+  "private": true,
+  "dependencies": {
+    "platform-dev": "Polymer/platform-dev#master",
+    "polymer-dev": "Polymer/polymer-dev#master",
+    "core-elements": "Polymer/core-elements#master"
+  }
+}
